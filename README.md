@@ -48,7 +48,7 @@
 
 ## 💼 Experience
 
-### 🏢 @ pak (PTY) Ltd  
+### 🏢 @ Pak (PTY) Ltd  
 *2018 – 2019*  
 - Ensured product quality standards before packaging.
 
@@ -57,7 +57,7 @@
 - Maintained cleanliness and ensured guest satisfaction.  
 - Managed reception duties, bookings, and payments.
 
-### 👩‍💻 Africa Tikkun (DYICT) — Backend Software Development Training  
+### 👩‍💻 Afrika Tikkun (DYICT) — Backend Software Development Training  
 *June 2025 – October 2025*  
 - Developed Java backend web apps using OOP principles.  
 - Built console applications and collaborated via Git/GitHub.
