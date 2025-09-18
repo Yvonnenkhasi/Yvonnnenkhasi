@@ -5,7 +5,7 @@
 ---
 
 
-<h3 align="center">💻 Backend & Frontend Developer | CS Graduate (2023)</h3>
+<h3 align="center">💻 Full Stack Developer | Information Technology Graduate (2023)</h3>
 <p align="center">Committed, enthusiastic, and ready to build innovative software solutions.</p>
 
 ---
