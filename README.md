@@ -1,63 +1,79 @@
-## Hi, I'm Yvonne Nkhasi!
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/yourgithubid?v=4" alt="Yvonne Nkhasi" width="150" style="border-radius: 50%;" />
+</p>
 
-### 📝 About Me
-I am a committed and enthusiastic Computer Science graduate from Richfield Graduate Institute of Business, completed my degree in April 2023. I have a solid background in both backend and frontend development across various programming languages. I take pleasure in creating innovative software solutions that address practical challenges. I excel when working with teams and am constantly motivated to expand my skills and develop as a software engineer.
+<h1 align="center">👋 Hi, I'm <strong>Yvonne Nkhasi!</strong></h1>
 
-### 🎓 Education
-- **Diploma in Information Technology**  
- Richfield Graduate Institude of Business — Graduated April 2023
+---
 
-### 💼 Work Experience
-- **@ pak (PTY)Ltd**  
-  *2018–2019*  
-- I was checking if the product meets the quality standard of the
-company and then I will package the product.
-  
- **Zuloo holdings**
-**Guest house host**
-*2023–2024*
-I was keeping the guest house clean and check if the guest has
-everything that they need. Work at the reception taking the bookings
-and making sure that all payments has been made.
+### 📝 About Me  
+I’m a committed and enthusiastic Computer Science graduate from **Richfield Graduate Institute of Business** (April 2023).  
+I specialize in backend and frontend development, creating innovative software solutions to real-world problems.  
+I thrive in team environments and constantly aim to improve as a software engineer.
 
+---
 
-**Africa Tikkun(DYICT)**
-  **june 2025-october2025**
-  **Sotfware development(back-end)Training**
-  - Gained practical experience in Java for backend web development.
-  - Creating console application that is active.
-  - Being able to use OOP on my console application 
-  - Used Git and GitHub for version control and collaboration.
+### 🎓 Education  
+**Diploma in Information Technology**  
+Richfield Graduate Institute of Business — *Graduated April 2023*
 
+---
 
-### 💻 Skills
-- **Backend Development:** PHP, Java, GlassFish, c++, Visual basic.  
-- **Database Management:** MySQL, JPA and Derby. 
-- **Frontend Development:** HTML, CSS, JavaScript, Visual basic.  
-- **Version Control:** Git, GitHub
+### 💼 Work Experience  
 
-### 👨‍💻 Projects
-  **AmbuConnect (In Progress)**
-Tech Stack: Java EE, Servlets, JSP, JPA, EJB, Derby DB, GlassFish, NetBeans
+**@ pak (PTY) Ltd** | *2018 – 2019*  
+- Ensured product quality standards were met before packaging.
 
-AmbuConnect is a web-based emergency response system designed to help patients quickly request an ambulance online.
+**Zuloo Holdings** — Guest House Host | *2023 – 2024*  
+- Maintained guest house cleanliness and ensured guests’ needs were met.  
+- Managed reception duties, bookings, and payments.
 
-Patients can request emergency transport directly through the website.
-The system allows users to view and choose available drivers and paramedics in real time.
-I’m leading the backend development, implementing core features using Java EE, including Servlets, EJB, and JPA for business logic and database access.
-Also contributing to the frontend using JSP to render dynamic, user-driven pages.
-The app runs on GlassFish server and uses Derby DB for data persistence.
-Development is managed in NetBeans, and the project follows a modular, layered architecture.
+**Africa Tikkun (DYICT)** — Backend Software Development Training | *June 2025 – October 2025*  
+- Developed Java backend web applications using OOP principles.  
+- Built active console applications and collaborated via Git/GitHub.
 
+---
+
+### 💻 Skills  
+
+| Backend Development                | Database Management       | Frontend Development              | Version Control  |
+|----------------------------------|--------------------------|---------------------------------|------------------|
+| PHP, Java, GlassFish, C++, Visual Basic    | MySQL, JPA, Derby        | HTML, CSS, JavaScript, Visual Basic       | Git, GitHub      |
+
+---
+
+### 👨‍💻 Projects  
+
+#### AmbuConnect (In Progress)  
+<details>
+<summary>Tech Stack</summary>
 
 
-### 🌟 Objectives
--Being able to collaborate with others so we can develop creative projects.  
-- Being able to come up with solution on technical problems with gaining more experience.  
-- Contribute greatly to the community.  
-- Continue with farthering my education. 
-### 📫 Connect with Me
-- **Email:** [ynkhasi1@gmail.com](mailto:ynkhasi1@gmail.com)  
-- **LinkedIn:** [Yvonne Nkhasi](linkedin.com/in/yvonne-nkhasi-ab5bba378)
+</details>
 
-Feel free to reach out for collaboration or networking opportunities
+AmbuConnect is a web-based emergency response system enabling patients to request ambulances online:  
+- Real-time driver & paramedic selection.  
+- Backend lead using Java EE (Servlets, EJB, JPA).  
+- Frontend contribution using JSP.  
+- Runs on GlassFish server with Derby DB persistence.  
+- Modular layered architecture.
+
+---
+
+### 🌟 Objectives  
+- Collaborate on creative projects.  
+- Solve technical challenges while gaining experience.  
+- Contribute meaningfully to the community.  
+- Continue furthering my education.
+
+---
+
+### 📫 Connect with Me  
+<p align="center">
+  <a href="mailto:ynkhasi1@gmail.com" style="text-decoration:none; margin-right:15px;">📧 ynkhasi1@gmail.com</a> | 
+  <a href="https://linkedin.com/in/yvonne-nkhasi-ab5bba378" target="_blank" style="text-decoration:none; margin-left:15px;">🔗 LinkedIn</a>
+</p>
+
+---
+
+<p align="center"><em>Feel free to reach out for collaboration or networking!</em></p>
