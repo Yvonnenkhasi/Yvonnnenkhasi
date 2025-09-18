@@ -1,7 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=1abc9c&height=200&section=header&text=Hi%20I'm%20Yvonne%20Nkhasi!&fontSize=40&fontAlignY=35&desc=Backend%20%26%20Frontend%20Developer%20%7C%20Computer%20Science%20Graduate&descAlignY=55&animation=twinkling" alt="banner" />
 </p>
-
 ---
 
 
