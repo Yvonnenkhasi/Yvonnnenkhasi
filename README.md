@@ -12,9 +12,6 @@ I am a committed and enthusiastic Computer Science graduate from Richfield Gradu
   *2018–2019*  
 - I was checking if the product meets the quality standard of the
 company and then I will package the product.
-**Reference**
-  -manager: Jarmina Tseleng
-  -call: 0836606312
   
  **Zuloo holdings**
 **Guest house host**
@@ -22,9 +19,8 @@ company and then I will package the product.
 I was keeping the guest house clean and check if the guest has
 everything that they need. Work at the reception taking the bookings
 and making sure that all payments has been made.
-**Reference**
-  -Manager: Thandi Nkabinde
-  -Call: 0797882129
+
+
 **Africa Tikkun(DYICT)**
   **june 2025-october2025**
   **Sotfware development(back-end)Training**
