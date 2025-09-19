@@ -56,7 +56,7 @@
 *2023 – 2024*  
 - Maintained cleanliness and ensured guest satisfaction.  
 - Managed reception duties, bookings, and payments.
-
+  Skills DEvelopment
 ### 👩‍💻 Afrika Tikkun (DYICT) — Backend Software Developer Trainee 
 *June 2025 – October 2025*  
 - Developed Java backend web apps using OOP principles.  
