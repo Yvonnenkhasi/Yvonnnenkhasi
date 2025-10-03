@@ -12,7 +12,7 @@
 
 ## 👩‍🎓 About Me
 
-🎓 Diploma in Information Technology graduate from **Richfield Graduate Institute of Business** (April 2023).  
+🎓 Diploma in Information Technology graduate from **Richfield Graduate Institute of Technology** (April 2023).  
 💡 Passionate about backend and frontend development, solving real-world problems with code.  
 🌱 Thrives in collaborative environments, eager to keep learning and growing as a software engineer.
 
