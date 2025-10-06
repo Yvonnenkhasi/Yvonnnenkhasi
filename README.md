@@ -77,6 +77,13 @@ AmbuConnect is a web-based emergency response system enabling patients to reques
 - Runs on GlassFish server with Derby DB.  
 - Modular, layered architecture.
 
+- ---
+### chess-Board 
+A web-based chess game with interactive UI, piece movement, and basic rules
+-HTML, CSS, JavaScript
+-Drag-and-drop piece movement
+-Basic game rules (turns, captures)
+-Responsive design
 ---
 
 ## 🌟 Objectives
