@@ -78,7 +78,7 @@ AmbuConnect is a web-based emergency response system enabling patients to reques
 - Modular, layered architecture.
 
 - ---
- <h3>chess Chess-Board</h3>
+ <h3>Chess-Board</h3>
       <p>A web-based chess game with interactive UI, piece movement, and basic rules.</p>
       <ul>
         <li>HTML, CSS, JavaScript</li>
